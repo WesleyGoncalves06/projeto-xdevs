@@ -1,0 +1,15 @@
+@media(max-width:620px){
+    .cabecalho{
+        background-color: red;
+        padding: 30px 0;
+    }
+    .btn-seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+
+    }
+    .lista-personagens{
+        height: 480px ;
+    }
+}
